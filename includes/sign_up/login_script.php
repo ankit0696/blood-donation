@@ -35,7 +35,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
 		else
 		{
 			$response['error']=true;
-			$response['message']="wrong credentials";
+			$response['message']="Wrong Credentials";
 		}
 	}
 	else
