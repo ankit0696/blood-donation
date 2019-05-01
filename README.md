@@ -9,10 +9,10 @@
 
 ## Technlogies Used
 
-### Web Server - Apache
-### Database - MYSQL
-### Backend language (Web) - PHP
-### Backend language (Android) - JAVA 
-### Frontend language (Android) - XML
+#### Web Server - Apache
+#### Database - MYSQL
+#### Backend language (Web) - PHP
+#### Backend language (Android) - JAVA 
+#### Frontend language (Android) - XML
 
 
